@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './components/navbar/Navbar'
 import Sidebar from './components/sidebar/Sidebar'
-import Column from './components/columns/column'
+import Column from './components/columns/Column'
 
 function App() {
 
