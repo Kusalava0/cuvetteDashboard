@@ -32,6 +32,18 @@
     margin-left: 4rem;
 }
 
+.btn-outline {
+    border-color: #142683;
+    background: #fff;
+    color: #142683;
+    padding: 0rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    width: 120px;
+    height: 44px;
+    margin-left: 4rem;
+}
+
 .statistics, .syllabus-analysis {
     margin-top: 2rem;
     padding: 1.5rem;

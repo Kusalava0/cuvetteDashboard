@@ -189,7 +189,7 @@ const Column = () => {
                         </div>
 
                         <div style={{ display: "flex", justifyContent: "flex-end" }}>
-                            <button className='btn' onClick={closeModal}>Cancel</button>
+                            <button className='btn-outline' onClick={closeModal}>Cancel</button>
                             <button className='btn' onClick={updateValues}>Save →</button>
                         </div>
                     </div>
